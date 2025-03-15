@@ -1,0 +1,2 @@
+# Statistics For Data Science
+**Statistics for Data Science** is a Git project that explores fundamental statistical concepts essential for data analysis and machine learning. It covers topics like descriptive statistics, probability distributions, hypothesis testing, regression analysis, and inferential statistics, with practical examples and implementations in Python. This repository serves as a resource for learning and applying statistical methods in real-world data science scenarios.
